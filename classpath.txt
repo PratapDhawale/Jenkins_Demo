@@ -1,0 +1,9 @@
+classpath : 
+
+		classpath maintains the project's source and target references for Java compilation and compressed file or project dependencies.
+		This configuration is maintained through the Java Build Path page in the project's properties.
+
+Projectpath : 
+
+		The project path is used within scripts to describe the location of project resources. This project path is based on the project root and is self-contained,
+which allows for portability.The project root is a system path where the project is stored. For example: On Windows: e:\di\projects\sales.
